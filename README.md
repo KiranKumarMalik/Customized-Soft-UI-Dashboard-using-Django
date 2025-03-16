@@ -1,28 +1,17 @@
-## 🚙 Car Zone - A Used Car Selling Business Website
+## 👨‍💻 Customized-Soft-UI-Dashboard-using-Django
 
 
-# 1. Home Page
+# 1. Admin Page
 
-![home](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/home.png)
+![home](https://github.com/KiranKumarMalik/Customized-Soft-UI-Dashboard-using-Django/blob/323ae72abc81f0ba8cb82d7dc2e16a1dcf8e081a/ss/admin.png)
 
 
-# 2. Car Page
+# 2. Groups Page
 
-![car](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/car.png)
+![groups](https://github.com/KiranKumarMalik/Customized-Soft-UI-Dashboard-using-Django/blob/323ae72abc81f0ba8cb82d7dc2e16a1dcf8e081a/ss/groups.png)
 
-# 3. About Page
+# 3. Users Page
 
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/about.png)
+![users](https://github.com/KiranKumarMalik/Customized-Soft-UI-Dashboard-using-Django/blob/323ae72abc81f0ba8cb82d7dc2e16a1dcf8e081a/ss/users.png)
 
-# 4. Services Page
-
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/services.png)
-
-# 5. Contacts Page
-
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/b459df58858ed6710544862a4592c7b46161d362/ss/contacts.png)
-
-# 6. Admin Page
-
-![about](https://github.com/KiranKumarMalik/Carzone-web-application-using-Django/blob/d5039451934ab5ed2e2cd3e0566762453b9984ef/ss/admin.png)
 
